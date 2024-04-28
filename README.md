@@ -3,7 +3,7 @@
 
 - 🐦 My Twitter: [https://twitter.com/en0th2](https://twitter.com/en0th2)
 - 📝 My Blog: [https://www.en0th.com](https://www.en0th.com)
-- 📧 E-Mail: linjiananallnt@outlook.com
+- 📧 E-Mail: en0th@hotmail.com
 
 <img src='https://img.shields.io/badge/-linjiananallnt/ElectricRat-3A77A9?style=flat-square&logo=joplin&logoColor=white&labelColor=6495ED' width='140px'> <img src='https://img.shields.io/badge/-linjiananallnt/SAI-00BFFF?style=flat-square&logo=javascript&logoColor=white&labelColor=6495ED' width='140px'>
 
