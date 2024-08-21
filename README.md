@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm en0th
-某厂的安服仔，热爱这个行业，保持学习。
+大三学生，热爱这个行业，保持学习。
 
 - 🐦 My Twitter: [https://twitter.com/en0th2](https://twitter.com/en0th2)
 - 📝 My Blog: [https://www.en0th.com](https://www.en0th.com)
