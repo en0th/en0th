@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm en0th
-大三学生，热爱这个行业，保持学习。
+大四学生，热爱这个行业，保持学习。
 
 - 🐦 My Twitter: [https://twitter.com/en0th2](https://twitter.com/en0th2)
-- 📝 My Blog: [https://www.en0th.com](https://www.en0th.com)
+- 📝 My Blog: [https://www.en0th.blog](https://www.en0th.blog)
 - 📧 E-Mail: en0th@hotmail.com
 
 <img src='https://img.shields.io/badge/-en0th/ElectricRat-3A77A9?style=flat-square&logo=joplin&logoColor=white&labelColor=6495ED' width='140px'> <img src='https://img.shields.io/badge/-en0th/SAI-00BFFF?style=flat-square&logo=javascript&logoColor=white&labelColor=6495ED' width='140px'>
