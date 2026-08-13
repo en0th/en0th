@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm en0th
-大四学生，热爱这个行业，保持学习。
+安全技术打工仔，AI颠覆了这个行业，保持学习！
 
 - 🐦 My Twitter: [https://twitter.com/en0th2](https://twitter.com/en0th2)
 - 📝 My Blog: [https://www.en0th.blog](https://www.en0th.blog)
